@@ -15,6 +15,7 @@ function Prouduct() {
 
 
   const [products,setProducts]=useState([])
+  
      console.log(products);
 
   const baseurl = 'https://dummyjson.com/products'
